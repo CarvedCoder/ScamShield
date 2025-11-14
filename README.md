@@ -1,4 +1,11 @@
 # 🛡️ Cyber Fraud Support System
+## Created by: Team Blitzkrieg (Team No: 32)
+### Members: 
+**1.**- Ommkar Ankit Rout (Leader)
+**2**- Subha Priyadarshan Panda (AI/ML Developer)
+**3**- Shreyans Behera (Backend & Database)
+**4**- Auro Anupam Das (Frontend Developer)
+## College: Trident Academy of Technology
 
 > **A comprehensive, production-ready web platform for collaborative cyber fraud prevention and recovery**
 > 
